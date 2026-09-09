@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.theme
+package com.example.myapplication
 
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
